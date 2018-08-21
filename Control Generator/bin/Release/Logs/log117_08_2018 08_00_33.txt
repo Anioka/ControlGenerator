@@ -1,0 +1,6 @@
+System.IO.FileNotFoundException: Could not find file 'C:\Users\AleksandraTos\Documents\Visual Studio 2008\Projects\Control Generator\bin\Release\final control.xlsx'.
+File name: 'C:\Users\AleksandraTos\Documents\Visual Studio 2008\Projects\Control Generator\bin\Release\final control.xlsx'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at Control_Generator.BasicForm.BgWorker_DoWork(Object sender, DoWorkEventArgs e) in C:\Users\AleksandraTos\Documents\Visual Studio 2008\Projects\Control Generator\BasicForm.cs:line 158
